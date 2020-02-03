@@ -1,5 +1,4 @@
-# House_Pricing_Prediction_Project
-# Predicting-Hypothyroidism-Python-Project
+# Hypothyroidism-Prediction-Python-Project
 
 Predicting Hypothyroidism: Python Project IP Week 8 Core
 

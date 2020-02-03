@@ -2,9 +2,9 @@
 
 Predicting Hypothyroidism: Python Project IP Week 8 Core
 
-#### {IP WEEK 8 DATA SCIENCE CORE}, {January, 2020}
 
-#### By **{Kanyi Melissa}**
+
+#### By **Kanyi Melissa**
 
 ## Description
 

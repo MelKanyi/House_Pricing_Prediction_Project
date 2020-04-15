@@ -1,6 +1,6 @@
-# Hypothyroidism-Prediction-Python-Project
+# Hass Consulting Company Project
 
-Predicting Hypothyroidism: Python Project IP Week 8 Core
+Predict sale prices: Python Project IP Week 9 Core
 
 
 
@@ -8,32 +8,19 @@ Predicting Hypothyroidism: Python Project IP Week 8 Core
 
 ## Description
 
-* Nairobi Hospital conducted a clinical camp to test for hypothyroidism.
-
-* The data collected focused on Thyroid patients. 
-
-* Dataset link: http://bit.ly/hypothyroid_data
- 
-* I will act as their Data Scientist to build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
-
+* You just got some contract with a real estate company, i.e; Hass Consulting Company,to study the factors that affect housing prices using the given information on real estate properties that was collected over the past few months. Later onwards, create a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables. They've hired you on contract to help them figure it out!
+* Create a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables.
 
 ## Experimental Design
 
-* Loading & Viewing the Data
-* Data Cleaning
-* Exploratory Data Analysis:
-      - Univariate
-      - Bivariate
-      - Multivariate
-* Feature Engineering
-* Modelling:
-      - Random Forest Classifier
-      - Ada Boost Classifier
-      - Gradient Boosting Classifier
-      - Support Vector Classifier
-* Tuning the best model
-* Challenge the solution
-* Conclusion
+
+* Find and deal with outliers anomalies, and missing data within the dataset.
+* Perform univariate, bivariate and multivariate analysis recording your observations.
+* Performing regression analysis.
+* Incorporate categorical independent variables into your models.
+* Check for multicollinearity
+* Provide a recommendation based on your analysis.
+* Create residual plots for your models, and assess heteroskedasticity using Barlett's test.
 
 ## Setup/Installation Requirements
 
